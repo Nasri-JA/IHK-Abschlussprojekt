@@ -1,0 +1,25 @@
+// Colors
+$theme-colors: (
+    "primary": $primary,
+    "secondary": $secondary,
+    "success": $success,
+    "info": $info,
+    "warning": $warning,
+    "danger": $danger,
+    "light": $light,
+    "dark": $dark,
+    "purple-light": $purple-light,
+    "purple-dark": $purple-dark,
+    "personalabteilung": #FF3030,
+    "abrechnung-mitarbeiter": #FF8000,
+    "nachunternehmer": #006699,
+    "kunden": #669900,
+    "fakturierung": #00C480,
+    "dateimanagement": #BABABA,
+    "dienstplan": #940094,
+    "sales-marketing": #FFC800,
+    "qm": #33CCCC,
+);
+
+// Font Overrides
+$headings-margin-bottom: $spacer * 1.5;
